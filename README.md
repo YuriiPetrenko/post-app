@@ -18,6 +18,8 @@ You will also see any lint errors in the console.
 
 ## Demo
 
+https://yuriipetrenko.github.io/post-app/
+
 ## Functionality
 
 #### Like posts:
